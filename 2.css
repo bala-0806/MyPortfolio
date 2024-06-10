@@ -1,10 +1,10 @@
-/* 2.css */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: url('texture.jpg') repeat; /* Dark gray textured background */
+    background: url('texture.jpg') repeat;
     background-color: #34353a;
-    color: #fff; /* White text */
+    color: #fff;
     margin: 0;
     padding: 0;
 }
@@ -141,8 +141,8 @@ section {
 section h2 {
     font-size: 2em;
     margin-bottom: 0.5em;
-    color: #efbf6b; /* Updated color */
-    cursor: pointer; /* Added cursor style */
+    color: #efbf6b;
+    cursor: pointer;
 }
 
 ul {
@@ -194,13 +194,13 @@ ul li {
 }
 
 .social-links a:hover {
-    color: #0073b1; /* LinkedIn blue */
+    color: #0073b1;
 }
 
 .social-links a:hover i.fa-instagram {
-    color: #e4405f; /* Instagram pink */
+    color: #e4405f;
 }
 
 .social-links a:hover i.fa-whatsapp {
-    color: #25d366; /* WhatsApp green */
+    color: #25d366;
 }
